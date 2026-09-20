@@ -1,0 +1,33 @@
+---
+title: "Yaa Adoma Kwapong"
+image: "headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/yaa-adoma-kwapong-md-mph-cph-604429183"
+  - label: GitHub
+    url: "https://github.com/adomakwapong"
+output:
+  postcards::trestles
+---
+
+## About Me
+
+I am a physician and clinical researcher with a background in public health and cardiovascular research. My interests include women's cardiovascular health, pregnancy-related cardiovascular conditions, and health disparities.
+
+I have experience with statistics and clinical research, and very familiar with Stata but I am excited to become more confident using R. I am especially interested in data science and how it can be applied to clinical research, including electronic health record data and reproducible analysis.
+
+Through this course, I hope to strengthen my programming skills and become more comfortable using R, Git, and GitHub in my research.
+
+## Five Fun Facts
+
+1. I completed my medical training in Ghana.
+2. I am the first physician in my extended family.
+3. I have lived in both the east and West coasts of the United states.
+4. I love spending time with my family.
+5. I am fascinated by how technology and data can improve health research.
+
+## Something That Interests Me
+
+I am especially interested in data science and precision medicine, and how clinical and electronic health record data can be used to answer meaningful questions and improve patient outcomes.
+
+
